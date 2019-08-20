@@ -7,7 +7,7 @@
      
 ## Objectives 
 
-Since Federated learning is an exciting technique to learn on decentralized data so the objective of the reporistory is ***to intoduce federated Learning and to show how it works.***
+Since Federated learning is an exciting technique to learn on decentralized data so the objective of the reporistory is ***to introduce federated Learning and to show how it works.***
 
 ## About Federated Learning
 

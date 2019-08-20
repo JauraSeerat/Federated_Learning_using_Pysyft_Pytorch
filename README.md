@@ -29,4 +29,4 @@ Image Credits:[Google AI blog](https://1.bp.blogspot.com/-K65Ed68KGXk/WOa9jaRWC6
 
 ## Acknowledgement
 
-I would like to show my gratitude to Udcaity and Facebook for providing me a chance. Three months in this Scholarship Challenge has made huge impact in my life in positive ways. Thank you for helping me to achieve my dreams. Last but not least, I would also like to acknowledge the efforts of slack community who is always ready to help. 
+I would like to show my gratitude to ***Udacity and Facebook*** for providing me a chance. Three months in this Scholarship Challenge has made huge impact in my life in positive ways. Thank you for helping me to achieve my dreams. Last but not least, I would also like to acknowledge the efforts of slack community who is always ready to help. 
